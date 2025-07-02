@@ -1,0 +1,25 @@
+# Object Detection App Configuration
+model:
+  default_model: "YOLOv8n"
+  confidence_threshold: 0.5
+  nms_threshold: 0.4
+  custom_model_path: "models/custom_model.pt"
+
+ui:
+  theme: "light"
+  sidebar_expanded: true
+  page_title: "Object Detection App"
+  page_icon: "🔍"
+
+processing:
+  max_image_size: 1920
+  max_video_size_mb: 100
+  supported_image_formats: ["jpg", "jpeg", "png", "bmp"]
+  supported_video_formats: ["mp4", "avi", "mov", "mkv"]
+
+detection:
+  draw_confidence: true
+  draw_class_names: true
+  box_thickness: 2
+  font_scale: 0.5
+  font_thickness: 1
