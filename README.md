@@ -35,7 +35,7 @@ This application provides an intuitive web interface for object detection using 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/object-detection-streamlit-app.git
+   git clone https://github.com/wondrv/object-detection-streamlit-app.git
    cd object-detection-streamlit-app
    ```
 
