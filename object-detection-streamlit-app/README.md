@@ -17,7 +17,7 @@ Aplikasi web untuk deteksi objek menggunakan Streamlit dan YOLOv8. Aplikasi ini 
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/object-detection-streamlit-app.git
+git clone https://github.com/wondrv/object-detection-streamlit-app.git
 cd object-detection-streamlit-app
 ```
 
@@ -122,9 +122,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Kontak
 
-Your Name - your.email@example.com
+wondrv - niiellpz@gmail.com
 
-Project Link: [https://github.com/yourusername/object-detection-streamlit-app](https://github.com/yourusername/object-detection-streamlit-app)
+Project Link: [https://github.com/wondrv/object-detection-streamlit-app](https://github.com/wondrv/object-detection-streamlit-app)
 
 ## 🙏 Acknowledgments
 
